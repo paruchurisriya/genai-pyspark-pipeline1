@@ -1,0 +1,8 @@
+pyspark==3.5.1
+pandas==2.1.0
+faker==19.3.0
+numpy==1.25.0
+tqdm==4.66.1
+pyarrow
+openpyxl==3.10.10
+fastparquet==2024.2.0
